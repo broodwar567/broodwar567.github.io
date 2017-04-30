@@ -9,7 +9,7 @@ there are definitely some properties you should add!*/
 
        width: 100%;
        height: 100%;
-       background-image: url(__Seattle_night-wow.png);
+       background-image: url(seattlenightwow.png);
        background-repeat: no-repeat;
        background-position: center;
        background-attachment: fixed;
